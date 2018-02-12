@@ -91,7 +91,7 @@
             ref.appendChild(js);
         })(document);
 </script>
-</head>
+<link href="dist/index.d37efae60a445167cca3.css" rel="stylesheet"></head>
     <div id="myApp" class="f7-root"> </div>
-<script type="text/javascript" src="dist/vendor.js?v=c07c164e930f794958a7"></script><script type="text/javascript" src="dist/index.js?v=c07c164e930f794958a7"></script></body>
+<script type="text/javascript" src="dist/vendor.min.js?v=2541ac5e696070e9381b"></script><script type="text/javascript" src="dist/index.min.js?v=d37efae60a445167cca3"></script></body>
 </html>
