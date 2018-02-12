@@ -1,0 +1,25 @@
+CACHE MANIFEST
+# c07c164e930f794958a7
+
+CACHE:
+../dist/img/banner.jpg
+../dist/img/bg-background.jpg
+../dist/img/latern-1.png
+../dist/img/latern-2.png
+../dist/img/latern-3.png
+../dist/img/latern-4.png
+../dist/img/titel-1.png
+../dist/img/titel-2.png
+../dist/img/titel-3.png
+../dist/img/titel-4.png
+../dist/img/title-lantern.png
+../dist/img/title-rcord.png
+../dist/img/title-record.png
+../dist/img/title-rule.png
+
+FALLBACK:
+index.html
+error.html
+
+SETTINGS:
+prefer-online
